@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh_CN</string>
+	<key>CFBundleDisplayName</key>
+	<string>探聊</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>$(PRODUCT_NAME)</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.7.5</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.lwb.SLOneChat</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>TanLiaoScheme</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLIconFile</key>
+			<string></string>
+			<key>CFBundleURLName</key>
+			<string>weixin</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>wx76fea7d687dd7837</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>qq</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>tencent1107150133</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>sina</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>sina.9caef3790abaa702a15e9e68e6697da8</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string>com.weibo</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>wb411093774</string>
+			</array>
+		</dict>
+		<dict>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+			<key>CFBundleURLName</key>
+			<string></string>
+			<key>CFBundleURLSchemes</key>
+			<array/>
+		</dict>
+	</array>
+	<key>CFBundleVersion</key>
+	<string>3</string>
+	<key>Fabric</key>
+	<dict>
+		<key>APIKey</key>
+		<string>7c6c3bf6a911c85d17294328da50831704f6ded7</string>
+		<key>Kits</key>
+		<array>
+			<dict>
+				<key>KitInfo</key>
+				<dict>
+					<key>consumerKey</key>
+					<string>0vRtwKpQrAmo4Zxic7mdtpPmo</string>
+					<key>consumerSecret</key>
+					<string>ZCmyf9dZSqfSigGb7tWv343U5uMtkTwNma0HOjy9v9gsdIj1Bu</string>
+				</dict>
+				<key>KitName</key>
+				<string>Twitter</string>
+			</dict>
+		</array>
+	</dict>
+	<key>KuaiLiaoRegisterLawyer</key>
+	<string>尊敬的用户，欢迎您注册探聊成为探聊的用户。
+本用户使用条款和隐私声明（包括但不限于本协议项下全部条款以及与本协议相关的通过平台发布或未来可能发布的各项规则，以下简称“本协议”）系西安奥比里奇网络科技有限公司（以下简称“本公司”）拟定并发布的，用于规范平台注册用户（以下简称“用户”或“您”）在平台上注册以及使用平台服务的行为。
+在您注册成为探聊用户之前，请务必确认：您是具有完全民事权利能力及民事行为能力、有能力履行并承担本协议项下的权利及义务、并能够独立作为法律诉讼的一方，您已认真阅读本协议项下全部条款，一旦您确认接受本协议，即表示您已经完全阅读、理解、同意接受并遵守本协议全部条款。 
+探聊系由本公司研发运营管理，本公司对本协议享有修改及解释之权利。如本协议有任何修改变更，本公司将在探聊官网及App刊载相关变更事项公告，并不再单独以其它方式通知您。所有修订的条款和规则一经公告立即生效，并对您产生法律约束力。
+如您对修改变更的内容有异议，请您立即停止使用探聊并联系我们；如您继续使用探聊的任何服务，则视为您已经同意并接受所有修改变更内容。当您与探聊发生纠纷时，所有条款及规则应以最新版本为准
+您点击页面下的“我已阅读并同意 《用户协议》”选项、或首次在手机app软件上点击“登录”选项取得账号、密码及/或验证码，即视为您对本协议的签署；在任何情况下，您都不得以未签署纸质协议为由否认本协议各条款及效力。若因您对本协议的违反导致任何法律后果的发生，您应以自己的名义独立承担相应的全部责任。
+用户协议
+一、注册账号
+（一）提供个人信息
+1、您有义务按照探聊的要求，及时、详尽、准确地提供您真实的身份信息及个人资料（下称个人信息），并在个人信息发生变更时及时更新，您需要提供的个人信息包括但不限于姓名、性别、年龄、联系电话、电子邮箱、目前职业、通讯地址、紧急联系人、星座、兴趣爱好等。
+2、如探聊发现您提供的个人信息不完整、不真实或错误的，有权要求您及时更新、补正个人信息，或直接单方面暂时性或永久性的停止您探聊账号的部分或全部使用权限。
+3、您承诺，您所提供的个人信息资料完整、真实、无误，若因信息不完整、不真实或错误产生的任何问题、不良后果（包括任何直接损失及间接损失）、法律责任均由您自行承担，探聊不承担任何责任。
+（二）账号及密码：
+注册成功后，您将获得一个探聊账号（下称账号）及其对应的密码。如发现账号及密码无法匹配对应，请及时联系探聊小秘书。
+二、个人隐私保护
+尊重和保护每一位探聊客的个人隐私是探聊的基本原则。探聊将根据隐私声明之内容对您个人隐私进行保护，隐私声明属于本用户协议不可分割的一部分。您承诺已经充分阅读、理解、同意并接受探聊据此处理您的个人信息。
+三、账号安全
+（一）妥善保管账号及密码：
+1、您的账号、密码及提供的个人信息是您在探聊的唯一识别信息。您注册成功后，请您严格履行对其的保密及保管，切勿将其转让、出售或授权给任何第三方使用。
+2、若您主动告知他人您的账号密码或与他人共用账号，探聊有权认为该账号的所有操作均代表您的本人意愿，并且由此产生的任何问题、不良后果（包括直接损失及间接损失）、法律责任均由您自行承担，探聊不承担任何责任。
+3、若您发现有第三人冒用、盗用您的账号及密码，应立即通知探聊停止您的账号服务，否则，由此产生的任何问题、不良后果（包括任何直接损失及间接损失）、法律责任均由您自行承担，探聊不承担任何责任。并且，由于探聊对您的请求需要采取行动的合理时间，故在探聊停止您的账号服务前，探聊对第三人使用您的账号进行的操作所带来的损失不承担任何责任。
+4、您在此承诺，您的账号及密码在登陆探聊后，所从事的一切行为均代表您本人，并由您本人承担相应的法律后果。
+（二）账号名及密码修改、找回：
+1、账号名密码修改：如您需修改您已注册的账号名称或密码，请严格按照探聊的提示信息经过身份验证（手机）后操作进行修改。
+ 2、账号密码找回：如您遗忘您已经注册的账号名称或密码，请严格按照探聊的提示信息经过身份验证（手机）后操作，直接进行找回。 
+四、账号使用规范
+您同意并承诺在使用账号时，应当遵守中华人民共和国法律法规及各项政策，维护探聊品牌形象，不会利用账号从事以下活动，或在使用账号过程中存在以下行为。否则，探聊有权立即停止您账号的部分或全部使用权限，并有权追究您相应的法律责任（若有）：
+（一）上载、展示、发送、传播、散布或者以其他方式传送含有下列内容之一的信息，探聊有权立即删除部分或全部该等信息：
+1、违反中华人民共和国法律法规及各项政策的非法信息，包括但不限于危害国家安全、泄露国家秘密、颠覆国家政权、破坏宗教政策、邪教封建迷信、危害国家或社会公共利益、涉及暴力、淫秽、色情、赌博、恐怖、犯罪的信息；
+2、通过捏造、编造、臆想等方式虚构的不实信息；
+3、恶意诋毁、诽谤、中伤、恐吓、威胁、骚扰他人的信息；
+4、侵犯他人名誉权，隐私权、知识产权、商业秘密的信息；
+5、恶意诋毁、诽谤、恐吓、中伤、威胁、骚扰探聊官网管理员、西安奥比里奇网络科技有限公司或其员工的信息；
+6、侵害探聊品牌名誉、西安奥比里奇网络科技有限公司商业秘密的信息；
+7、其他中华人民共和国法律法规政策、社会道德、公序良俗所禁止或限制的信息。
+（二）非法利用病毒、软件、程序等破坏、侵害探聊系统，干扰探聊的正常运营的；
+（三）非法截取、盗取、改变、增删系统数据、功能、程序的；
+（四）以非法目的使用账号的；
+（五）长时间不使用，
+（六）其他危害或可能危害探聊安全的行为。
+五、免责声明：
+您已经充分阅读、理解、同意并接受，鉴于网络服务之特殊性，探聊无法担保以下内容，并且对以下内容不承担法律责任：
+（一）探聊不能保证提供的网络服务一定满足您的要求；
+（二）探聊不能保证外部网络链接的真实性、安全性、准确性、完整性，因外部链接指向的为不由探聊实际控制的网页内容；
+（三）探聊不能控制网络服务因所依赖的电信设备故障、不可抗力、黑客攻击、电信部门技术调整或故障、或其他探聊无法控制的原因造成的探聊部分或全部服务暂停、中断、无法使用、或者其他缺陷问题，但探聊承诺将尽力减少因此给您造成的损失和影响。
+六、知识产权声明
+（一）著作权、专利权：探聊在所提供的全部内容及网络服务的过程中，包含、涉及、提及的文本、图片、图形、图像、视频、软件、程序、程序代码等（统称网站内容）之著作权及/或专利权均受法律保护，未经相关权利人同意，任何自然人、法人或其他组织不得擅自直接或间接转载、引用、使用或者以其他方式复制发表发布，但法定许可的情形除外。其中属于探聊所有之部分，必须经过探聊书面授权许可。如需转载、引用、使用或者以其他方式复制发表发布探聊网站内容，或者磋商支付法定许可报酬，请联系探聊小秘书。 
+七、法律责任
+因您违反本协议中的承诺、保证或任何其他义务，或因您的承诺、保证不真实、不准确、不完整或具有误导性，致使探聊遭受损失的，探聊有权要求您赔偿全部损失并依法追究您的法律责任。如造成第三方损失的，您应当独立向第三方承担相应的全部赔偿责任。
+八、附则
+（一）未成年人特别提示：如您为未成年人（未满18周岁），探聊提示您，请遵守全国青少年网络文明公约，您无权单独使用探聊的部分或全部功能及服务，请在父母或监护人的陪同下使用探聊服务。
+（二）探聊未行使本协议中的任何权利，不构成对前该等权利的放弃。
+（三）本用户协议中的任何条款与中国法律强制性规定冲突导致其全部或部分无效的，不影响本协议其余条款的效力。
+（四）终止：除非探聊终止本协议，或您根据法律法规及本协议的约定申请终止本协议并经探聊同意，本协议长久有效。
+（五）法律适用：本协议的签订、履行、变更、终止、解释均适用中华人民共和国法律。
+（六）法律管辖：因本协议或者探聊服务产生的一切纠纷及争议应向探聊所在地的人民法院提起诉讼。
+
+</string>
+	<key>LSApplicationQueriesSchemes</key>
+	<array>
+		<string>fbapi</string>
+		<string>fb-messenger-api</string>
+		<string>fbauth2</string>
+		<string>fbshareextension</string>
+		<string>weixin</string>
+		<string>wechat</string>
+		<string>sinaweibohd</string>
+		<string>sinaweibo</string>
+		<string>sinaweibosso</string>
+		<string>weibosdk</string>
+		<string>weibosdk2.5</string>
+		<string>mqqapi</string>
+		<string>mqq</string>
+		<string>mqqOpensdkSSoLogin</string>
+		<string>mqqconnect</string>
+		<string>mqqopensdkdataline</string>
+		<string>mqqopensdkgrouptribeshare</string>
+		<string>mqqopensdkfriend</string>
+		<string>mqqopensdkapi</string>
+		<string>mqqopensdkapiV2</string>
+		<string>mqqopensdkapiV3</string>
+		<string>mqqopensdkapiV4</string>
+		<string>mqzoneopensdk</string>
+		<string>wtloginmqq</string>
+		<string>wtloginmqq2</string>
+		<string>mqqwpa</string>
+		<string>mqzone</string>
+		<string>mqzonev2</string>
+		<string>mqzoneshare</string>
+		<string>wtloginqzone</string>
+		<string>mqzonewx</string>
+		<string>mqzoneopensdkapiV2</string>
+		<string>mqzoneopensdkapi19</string>
+		<string>mqzoneopensdkapi</string>
+		<string>mqqbrowser</string>
+		<string>mttbrowser</string>
+	</array>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>MOBAppKey</key>
+	<string>1d7b58e5e46da</string>
+	<key>MOBAppSecret</key>
+	<string></string>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+	</dict>
+	<key>NSCameraUsageDescription</key>
+	<string>探聊需要您的同意，才能访问相机，修改用户头像时拍摄照片(视频时使用摄像头)</string>
+	<key>NSContactsUsageDescription</key>
+	<string>contactsDesciption</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string></string>
+	<key>NSLocationWhenInUseDescription</key>
+	<string></string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>探聊需要您的同意，才能访问您的位置，以便于在创建动态(更新资料)时使用您的位置信息</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>探聊需要您的同意，才能访问麦克风，以便于在视频通话中进行语音聊天时使用麦克风</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>探聊需要您的同意，才能访问相册，以便于您在创建动态(修改用户头像)时从相册选择照片、视频</string>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>audio</string>
+		<string>remote-notification</string>
+	</array>
+	<key>UILaunchStoryboardName</key>
+	<string>Splash</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UIRequiredDeviceCapabilities</key>
+	<array>
+		<string>armv7</string>
+	</array>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>kuaiLiao_LAWYER</key>
+	<string>一、合作内容 
+
+1.1 乙方可利用甲方的探聊播主服务平台（包括探聊客户端）发布乙方作为播主的身份资质信息（以下简称“探聊信息”），包括但不限于个人基本信息等乙方播主条件信息。 
+
+1.2 乙方利用甲方在平台上发布的个人身份资质信息，为乙方提供网络宣传推广服务(播主信息的互联网发布、互动活动推广及与此有关的互联网技术服务)，进而为甲方的用户提供服务信息。 
+
+1.3 合作时间：本协议经播主在线接受且经过探聊审核通过后即告生效，除非本协议规定的终止条件发生，本协议将持续有效。双方另有约定的除外。 
+
+1.4 发票和余额提现：乙方根据当月消费记录，不给与一般增值税专用发票或普通发票。乙方播主服务可申请账户余额提现。 
+
+1.5 甲方对于本协议内容拥有最终解释权和修订权。 
+
+ 
+
+二、甲方权利与义务 
+
+2.1 甲方保证经甲方审核通过的乙方信息在探聊平台上能正确显示。乙方提供的播主信息能够顺利、及时上线。 
+
+2.2 当第三方通知甲方，认为乙方在平台上发布的信息存在重大问题时，甲方将以普通非专业人员的知识水平标准对相关内容或行为进行初步判别，如判别认定该内容或行为不当或具有违法性质，甲方有权删除相关信息或/和停止对乙方提供服务。 
+
+（1）事先获得用户的明确授权； 
+
+（2）只有透露第三方用户的个人资料，才能提供用户所要求的产品和服务； 
+
+（3）根据有关的法律法规要求； 
+
+（4）按照相关政府主管部门的要求； 
+
+（5）为维护探聊的合法权益。 
+
+2.4 在乙方注册探聊帐户，使用探聊提供的产品或服务，探聊平台会收集乙方的个人身份识别资料，并会将这些资料用于：改进为乙方提供的服务及信息内容。 
+
+ 
+
+三、乙方权利与义务 
+
+3.1 资质文件提交：乙方欲使用本协议下服务，必须向甲方提交如下文件（以下简称“资质文件”）：乙方出具个人身份资质（需通过图片上传身份证，图片内具有资质所需信息）； 
+
+3.2 平台服务：乙方完整、准确提交上述资质文件并经甲方审核通过后，甲方即为乙方开通平台服务。开通后，乙方可在平台上发布播主信息，经甲方审核通过后即可显示在平台上。乙方应妥善保管其账号及密码信息，不得以任何形式擅自转让或授权他人使用，否则须自行承担由此引起的法律责任。 
+
+3.3 平台合法使用： 
+
+（1）遵守国家法律法规：乙方保证在使用甲方服务时实施的所有行为均遵守国家法律、法规以及社会公共利益。如有违反导致任何法律后果的发生，乙方将以自己的名义独立承担相应的法律责任。如因此给甲方造成损失或因此导致甲方承担连带责任的，甲方有权向乙方追偿。 
+
+（2）不侵害第三方合法权益：乙方承诺拥有合法的权利和资格向平台上传有关信息并进行推广，且前述行为未对任何第三方合法权益，包括但不限于第三方知识产权、物权等构成侵害，如乙方因违反上述约定而引起的任何第三方提起的投诉、索赔，诉讼或行政责任的均与甲方无关，因此造成甲方损失的则由乙方全部赔偿。 
+
+3.4 信息变更的通知：乙方在本协议期限内如变更或新增任何信息（包括但不限于资质文件及其所含信息、经营信息、推广信息），应保证在一个工作日内通知甲方并更新至平台上。 
+
+（1）资质信息变更：协议期内，资质文件及其所含信息发生任何变更，乙方应在重新编辑身份资质信息重新申请成为播主，如资质文件及其所含信息的变更使得乙方不再具备履行本协议的情形出现时，甲方有权立即终止本协议，不承担任何赔偿及法律责任。乙方同意为其未在约定时间内通知或更新其信息承担全部法律责任。 
+
+3.5 信息真实、准确、合法、有效性承诺：乙方保证其向甲方提供的全部信息，包括但不限于证明文件、经营信息、推广信息等，真实、准确、合法，且在协议履行期间都处于合法有效期内，不可存在任何误导、遗漏、虚假或隐瞒，否则，因此给第三方和/或甲方带来损失的，应由乙方独立承担全部法律责任并予以赔偿。 
+
+3.6 在本协议期间，乙方不得进行下述行为（包括但不限于），否则视为乙方违约：
+
+3.6.1 诱使甲方平台用户添加乙方个人或者乙方推荐人员的微信、QQ等即时聊天工具；
+
+3.6.2 主动询问甲方平台用户微信、QQ等账号，以自己名义或者推荐他人进行添加；
+
+3.6.3 向甲方平台、甲方公司员工、甲方合作伙伴、代理商等用户宣传、极力推荐其他网络平台、直播平台、聊天工具等；
+
+3.6.4 诱使甲方平台用户、甲方公司员工、甲方合作伙伴、代理商等使用其他网络平台、直播平台、聊天工具等；
+
+3.6.5 向甲方平台用户、甲方公司员工、甲方合作伙伴、代理商散布有损甲方声誉的信息；
+
+3.6.6 其他有损甲方声誉及收益的行为。
+
+ 
+
+四、解约 
+
+4.1 乙方同意赔偿由于使用甲方服务（包括但不限于将乙方资料展示在互联网上）或违反本协议而给甲方造成的任何损失（包括由此产生的全额的诉讼费用和律师费）。乙方同意甲方不对任何由乙方张贴的资料承担任何责任；由于此类资料对其它用户造成的损失由乙方自行全部承担。 
+
+4.2 除本协议另有约定之外，如一方发生违约行为，守约方可以书面通知方式要求违约方在指定的时限内停止违约行为，并就违约行为造成的损失进行索赔，如违约方未能按时停止违约行为，则守约方除就其损失获得所有赔偿外亦有权立即终止本协议。 
+
+4.3 不可抗力免责条款：如由于不可抗力事件，包括但不限于互联网连接故障、电脑、通讯或其他系统的故障、电力故障、罢工、劳动争议、暴乱、骚乱、火灾、洪水、风暴、爆炸、战争、政府行为、法院的命令或第三方的不作为或任何其他类似事件，致使合同的部分或全部不能履行或延迟履行，则甲方不承担任何违约责任，但双方应将不可抗力所造成的影响控制在最小范围内。
+
+ 
+
+五、法律适用及解决争议的方式 
+
+5.1 法律适用：本协议的订立、效力、履行和解释及争议的解决适用中华人民共和国法律、法规和计算机、互联网行业的规范。合同条款如与相关法律、法规内容抵触，该条款无效，但不影响其他条款的法律效力。 
+
+5.2 解决争议的方式：因本协议订立、解释和履行发生的争议，双方应友好协商解决，如协商不成，提交甲方所在地成都市高新区人民法院解决。 
+
+ 
+
+六、合同终止 
+
+6.1 提前通知解除：协议任何一方均可以提前十五天以书面通知的方式提前终止本协议。 
+
+6.2 协议终止后有关事项的处理： 
+
+（1）协议终止后，甲方有权删除乙方平台服务账户和/或与之相关的任何信息，有权终止转发任何未曾阅读或发送的信息给乙方或第三方，甲方亦不就终止协议而对乙方或任何第三方承担任何责任； 
+
+（2）协议终止后，甲方有权保留乙方的注册数据及以前的相关行为记录。如乙方在协议终止前在平台上存在违法行为或违反协议的行为，甲方仍可行使本协议所规定的权利； 
+
+（3）协议终止之前，乙方已经创建的推广信息尚未完成实现的，探聊有权在协议终止时同时删除与此相关的信息，同时该部分推广费用不予退还。 
+
+ 
+
+七、特殊免责条款 
+
+7.1 乙方理解网站或客户端为正常运行需进行停机维护，如因此造成乙方不能正常运营，乙方承诺不追究甲方法律责任，但甲方有义务尽力避免服务中断或将中断限制在最短时间内。 
+
+7.2 由于黑客攻击、第三方公司软件屏蔽或非因甲方技术原因导致乙方广告无法播放的，乙方对此予以理解，并承诺不追究甲方责任，但甲方尽可能将上述影响减少到最低。 
+
+ 
+
+八、保密与不竞争规定
+
+8.1 知识产权转让；双方确认，乙方在使用甲方平台服务期间，利用甲方的物质技术条件、业务信息等生产的发明创造、作品、注册及未注册商标、计算机软件、技术密码或其他商业秘密信息等包含的全部知识产权均属于甲方享有。甲方可以在其业务范围内充分利用这些发明创造、作品、计算机软件、技术秘密信息，进行生产、经营或者向第三方转让。
+
+8.2 保密责任；乙方酬薪、奖金属于公司公司机密，不得与他人以及第三方进行沟通交流。如有泄露，公司有权立即解除此协议。乙方亦应本着谨慎和负责的态度，严格保守本人知悉的商业机密，或本人持有的属于甲方或虽属于第三方但甲方承诺有保密义务的技术秘密和商业秘密。
+
+8.3.1  乙方不得以任何形式恶意诋毁甲方，不得将在履行本协议期间得知的甲方的运营模式、操作要点、客户群体等信息告知任何第三方，尤其是与甲方存在竞争关系的同类企业，否则，甲方有权追究乙方的违约责任，给甲方造成的损失由乙方承担。
+
+8.3.2  乙方在本协议期间，不得通过直接或者间接的方式教唆、引诱、鼓励、恶意诋毁等手段诱使任何甲方员工、合作伙伴等终止与甲方原有的雇佣、合作关系或者诱使前述人员与其他网络平台建立雇佣或合作关系。
+
+8.3.3  乙方在本协议期间，不得通过直接或者间接的方式教唆、引诱、鼓励、恶意诋毁等手段诱使甲方的平台用户停止使用甲方现有平台或者诱使甲方原有平台用户使用其他同类网络平台。
+
+8.3.4 在本协议履行期间，甲方有权采用后台监控的方式对乙方的行为进行监测和管理，乙方应保持忠诚度，坚守自身职责若发现乙方存在违反本协议约定的情形，甲方有权对乙方在甲方平台的账号进行封停，并将账户内余额进行冻结处理。
+
+ 
+
+九、附则 
+
+9.1 除非获得另一方的书面许可，任何一方不得将其在本协议项下的权利或义务转让或以其他方式让与给他人。 
+
+9.2 本协议附件是本协议不可分割的一部分，与本协议正文具有同等法律效力。 
+
+探聊平台对于本协议内容拥有最终解释权和修订权。 
+</string>
+</dict>
+</plist>
